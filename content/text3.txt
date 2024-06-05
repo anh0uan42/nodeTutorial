@@ -1,0 +1,4 @@
+Created by fs module and include the previous file: This is the first text file!
+This is the second text file!, and added new data
+Created by fs module and include the previous file: This is the first text file!
+This is the second text file!, and added new data

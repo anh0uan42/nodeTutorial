@@ -1,0 +1,2 @@
+Another way to write file by combine 2 file: This is the first text file!
+This is the second text file!
