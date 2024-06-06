@@ -1,7 +1,7 @@
-const _ = require('lodash');
+console.log('1');
 
-const items = [1, [2, [3, [4]]]];
+setTimeout(() => {
+    console.log('Every second');
+}, 1000);
 
-const newArray = _.flattenDeep(items)
-
-console.log(newArray)
+console.log('last');
